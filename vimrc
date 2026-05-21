@@ -22,4 +22,7 @@ set scrolloff=4
 # show 8 characters around the cursor.
 set sidescrolloff=8
 
+# add a custom terminal command.
+command! Vterm vertical botright terminal
+
 # vim: ft=vim ts=4 sw=0 sts=0 et
