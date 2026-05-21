@@ -4,6 +4,9 @@
 
 vim9script
 
+# load defaults.
+runtime! defaults.vim
+
 # override the file name used for viminfo.
 set viminfofile=~/.vim/viminfo
 
