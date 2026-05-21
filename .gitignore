@@ -1,0 +1,10 @@
+# ~/.vim/.gitignore
+#
+# Copyright 2026 霧風 紫餡
+
+*~
+.*.sw[op]
+
+/viminfo
+
+# vim: ft=gitignore
