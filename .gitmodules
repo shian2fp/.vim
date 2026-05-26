@@ -1,0 +1,4 @@
+[submodule "nftables"]
+	path = pack/nftables/start/nftables
+	url = https://github.com/nfnty/vim-nftables.git
+	branch = master
