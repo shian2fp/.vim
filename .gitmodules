@@ -2,3 +2,7 @@
 	path = pack/nftables/start/nftables
 	url = https://github.com/nfnty/vim-nftables.git
 	branch = master
+[submodule "slimv"]
+	path = pack/slimv/start/slimv
+	url = https://github.com/kovisoft/slimv.git
+	branch = master
